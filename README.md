@@ -1,2 +1,2 @@
-# my-portfolio
-"This is my first project in GitHub"
+# About my first project portfolio
+# This repository serves as the project portfolio for [Ndonji]. Its my first assignment.
